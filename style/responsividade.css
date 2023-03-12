@@ -3,12 +3,24 @@
         flex-direction: column;
     }
 
+    header .menu a{
+        font-size: 15px;
+    }
+
+    header .menu .botao{
+        padding: 5px;
+    }
+
+    h1{
+        font-size: 20px;
+    }
+
     main{
         flex-direction: column;
     }
 
     h2{
-        font-size: 32px;
+        font-size: 28px;
     }
 
     form{
